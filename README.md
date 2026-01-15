@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm William, a Computer Science student at UT Austin 🤘<br><br>- 🔭 Software Engineering Intern at UT Austin Enterprise Technologies<br>- 🤖 Building AI-powered applications and scalable systems<br>- 📚 Learning cloud architecture, distributed systems, and machine learning<br>- ⚡ In my free time I build side projects and mentor aspiring engineers</p>
+<p align="left">I'm William, a Computer Science student at UT Austin 🤘<br><br>- 🔭 Student Software Intern at UT Austin Enterprise Technologies<br>- 📚 Learning cloud architecture, distributed systems, and machine learning<br>- ⚡ I love software because it can turn ideas into real projects that can solve real-world problems</p>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
 ###
 
@@ -85,22 +85,5 @@
   <strong>AI News Summarizer</strong> - NLP application for intelligent text summarization<br>
   <em>Python • BERT • PyTorch • TensorFlow</em>
 </p>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sillywillyatUT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sillywillyatUT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sillywillyatUT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
