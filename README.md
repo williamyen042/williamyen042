@@ -65,7 +65,7 @@ My work centers on turning LLM capabilities into production-style systems — in
 
 ## 🚀 Current Status
 
-- 🔭 Currently working on: **rag-from-scratch** (end-to-end RAG system implementation)
+- 🔭 Currently working on: **rag-from-scratch** (end-to-end RAG system implementation), exploring agentic AI automation
 - 🌱 Currently learning: **RAG, LangChain, LangSmith, Computer Vision, Agentic Systems (LangGraph)**
 - 👯 Looking to collaborate on: **AI agents, dev tools, and applied ML systems**
 
