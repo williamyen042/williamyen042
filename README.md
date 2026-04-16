@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William Yen 👋</h1>
-<h3 align="center">Software Engineer • Agentic AI • Fullstack Systems • Incoming IBM Z AIOps Intern</h3>
+<h3 align="center">Software Engineer • Agentic AI • Fullstack Systems • Incoming SDE Intern @ IBM Z AIOps</h3>
 
 ---
 
@@ -9,17 +9,11 @@
   <a href="https://linkedin.com/in/wy042">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter" />
-  </a>
   <a href="https://instagram.com/williamyen_">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:williamyen042@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
