@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William Yen 👋</h1>
-<h3 align="center">Software Engineer • Agentic AI • Fullstack Systems • Incoming SDE Intern @ IBM Z AIOps</h3>
+<h3 align="center">Software Engineer • Agentic AI • Fullstack Systems •  SDE Intern @ IBM Z AIOps • Incoming SWE Intern @ PwC - Technical Innovation & Delivery Experience</h3>
 
 ---
 
@@ -28,15 +28,21 @@ My work centers on turning LLM capabilities into production-style systems — in
 ---
 
 ## 🏢 Experience
+### Incoming Software Engineer Intern — PwC TIDE (Fall 2026)
+> Agentic AI • Infrastructure • LLM Systems
+- joining the tax innovation & delivery experience team to build ai tools that modernizes tax workflows.
 
-### Incoming Software Engineer Intern — IBM Z AIOps (Summer 2026)
+### Software Developer Intern — IBM Z AIOps (Summer 2026)
 > Agentic AI • LLM Systems • Infrastructure
 
-- Building agentic AI systems that provide natural language interfaces to systems, middleware, and application performance  
-- Developing and orchestrating AI agents using **LangGraph** and **LangChain**  
-- Working with **vector databases (ChromaDB)** and retrieval pipelines for context-aware responses  
-- Integrating external APIs (web search, internal tools) into agent workflows  
-- Collaborating in small teams on agentic AI infrastructure and applications  
+- Cut dependency-traversal latency 25–45% and API calls up to 47% by profiling a performance bottleneck to an
+N+1 query pattern in a graph traversal and rewriting it with two-phase batch fetching
+- Built and maintained developer tooling — a 73-case Promptfoo test harness with an LLM-as-judge grader —
+cutting each validation cycle from 2 min to 5–10 s and gating every deployment
+- Shipped the ServiceNow agent for IBM’s internal Z-mainframe LLM assistant end to end, orchestrating 19 Python
+tools across services via LangGraph/LangChain with hybrid lexical + embedding semantic search (ChromaDB)
+- Raised the agent’s routing accuracy from 45% to 97% (71/73 cases) by root-causing a systematic failure mode and
+rewriting the prompt routing table across 14 workflows
 
 ---
 
@@ -65,8 +71,8 @@ My work centers on turning LLM capabilities into production-style systems — in
 
 ## 🚀 Current Status
 
-- 🔭 Currently working on: **rag-from-scratch** (end-to-end RAG system implementation), exploring agentic AI automation
-- 🌱 Currently learning: **RAG, LangChain, LangSmith, Computer Vision, Agentic Systems (LangGraph)**
+- 🔭 Currently working on: personal portfolio
+- 🌱 Currently learning: **RAG, LangChain, LangSmith, Computer Vision, Agentic Systems (LangGraph)** 
 - 👯 Looking to collaborate on: **AI agents, dev tools, and applied ML systems**
 
 ---
