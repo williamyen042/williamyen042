@@ -176,14 +176,10 @@ rewriting the prompt routing table across 14 workflows
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" />
-  <img src="./profile/top-langs.svg" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=williamyen042&theme=dark&background=0D1117&hide_border=true" height="165" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
