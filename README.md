@@ -126,7 +126,7 @@ rewriting the prompt routing table across 14 workflows
 - Exports to Google Calendar (OAuth) or .ics  
 - Next.js 14 + TypeScript + Supabase (Postgres/auth/storage) on Netlify Functions; Groq primary with Gemini fallback on rate limits  
 
-🔗 https://github.com/sillywillyatUT/SyllaSync
+🔗 https://github.com/williamyen042/SyllaSync
 
 ---
 
