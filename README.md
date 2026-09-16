@@ -55,26 +55,20 @@ rewriting the prompt routing table across 14 workflows
 
 ---
 
-### Student Software Developer — UT Austin Enterprise Technologies
-> Backend Systems • API Design • Data Infrastructure
+### Student Technician (Software Engineer) — UT Austin Enterprise Technologies (Sep 2025 – Present)
+> Backend Systems • API Design • Network Data Infrastructure — all tools below run in production
 
-#### 🔐 DNAC API Proxy
-- Built a Java (Javalin) proxy layer mapping local endpoints to Cisco DNAC APIs  
-- Designed JSON-configurable routing and transformation system  
-- Implemented field-level data sanitization (hashing, blanking, removal) for sensitive information  
-- Enforced strict API contract behavior with validation and error handling  
+#### 🔐 DNAC API Proxy + XMP → DNAC Translator
+- Config-driven Java (Javalin) proxy emulating Cisco Catalyst Center's API, sanitizing Wi-Fi client PII and translating internal XMP data onto the DNAC schema  
 
-#### 🔄 XMP → DNAC API Translator
-- Developed translation layer between internal XMP APIs and external DNAC schema  
-- Normalized and transformed responses to match expected API contracts  
-- Implemented deterministic fallback logic for incomplete data  
-- Enabled interoperability across incompatible systems  
+#### 📦 Cisco Inventory Sync (`storeShowInvHistory`)
+- Python parser syncing Cisco `show inventory` output to MySQL, with ping-status filtering and archive-table upserts  
 
-#### 📊 Network Data Audit & Reconciliation Tool
-- Built Python pipeline to compare network datasets across XMP DB and Infoblox  
-- Generated structured CSV reports highlighting inconsistencies and overlaps  
-- Identified missing DNS reverse zones and metadata gaps  
-- Improved data reliability and audit visibility  
+#### 💲 Cisco Price History Tracker
+- Nightly cron job loading Cisco price lists into MySQL, skipping non-newer effective dates with 3-year retention  
+
+#### 📊 Subnet Audit & Reconciliation
+- Python script reconciling TSC Tools and Infoblox subnets into a CSV report of overlaps, missing reverse DNS zones, and 180-day IP utilization  
 
 ---
 
@@ -98,6 +92,19 @@ rewriting the prompt routing table across 14 workflows
 - Current bottleneck is dataset size — actively recording and labeling more reps  
 
 🔗 https://github.com/williamyen042/passform
+
+---
+
+### 💬 Slack Searcher — Grounded Slack Q&A over MCP
+> 5th of 93 teams at IBM's company-wide hackathon • public rebuild
+
+- MCP server + Next.js chat UI that answers only from retrieved Slack messages, citing a permalink for every claim  
+- Incremental cron indexer into a SQLite chunk/vector store — unchanged messages cost zero embedding calls  
+- Dense, BM25 (Slack-aware tokenizer that keeps `ERR_500`, `us-east-1` intact), or hybrid retrieval fused with RRF  
+- 139 offline tests, including a real JSON-RPC protocol conformance suite  
+- Public channels only by design; query-time permission filtering is the documented prerequisite for private channels  
+
+🔗 https://github.com/williamyen042/slack_searcher
 
 ---
 
@@ -172,11 +179,11 @@ rewriting the prompt routing table across 14 workflows
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamyen042&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamyen042&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=williamyen042&theme=dark&background=0D1117&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=williamyen042&theme=dark&background=0D1117&hide_border=true" height="165" />
 </p>
 
 <p align="center">
